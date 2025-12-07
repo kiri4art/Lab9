@@ -77,6 +77,7 @@ int main()
 ```
 ## 3. Результаты работы программы ##
 ![](https://github.com/kiri4art/Lab9/blob/main/lab9ans1.png)<br>
+
 ![](https://github.com/kiri4art/Lab9/blob/main/lab9ans2.png)<br>
 Программа успешно прошла проверку
 ## 4. Информация о разработчике ##
