@@ -57,15 +57,7 @@ int main()
         }
         for (int j = 0; j < chars; j++)
         {
-            if (i == 0 || i == h - 1)
-            {
-                printf("%c", symbol);
-            }
-            else
-            {
-                if (j == 0 || j == chars - 1) printf("%c", symbol);
-                else printf(" ");
-            }
+            printf("%c", symbol);
         }
         printf("\n");
     }
